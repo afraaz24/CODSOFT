@@ -14,7 +14,7 @@ To see the website in action, you can visit the [Education Demo](https://afraaz1
 
 ## How to Run Locally
 
-1. Clone the repository: `git clone https://github.com/Rj1221/education.git`
+1. Clone the repository: `git clone https://github.com/afraaz10/education.git`
 2. Open the `index.html` file in your preferred web browser.
 3. Explore the website and find your perfect pet!
 
