@@ -1,7 +1,7 @@
 # Education Website
 
 
-Welcome to the Pet Adoption website! This website is dedicated to finding loving homes for pets in need. Our mission is to make the adoption process as seamless and joyful as possible. Here, you can browse through our selection of adorable pets waiting for a forever home and find your perfect companion today.
+Welcome to the Education website! This website is dedicated finding free courses.
 
 ## Demo
 
