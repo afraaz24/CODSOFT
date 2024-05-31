@@ -1,6 +1,6 @@
 # Portfolio Website
 
-This repository contains the code for a portfolio website that showcases various web design and development projects, provides pricing plans, displays customer testimonials, and includes a contact form for inquiries.
+This repository contains the code for a portfolio website that showcases various web design and development projects, and includes a contact form for inquiries.
 
 ## Table of Contents
 
